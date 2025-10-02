@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-01)
+## Unreleased (2025-10-02)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="reverts">
+
+### Reverts
+
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - undo commits adding tests for full code coverage
+
+</section>
+
+<!-- /.reverts -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
 -   [`457674e`](https://github.com/stdlib-js/stdlib/commit/457674ebfc37c325d9a880ccccbbcac1ce07543b) - **test:** add tests to achieve full coverage in `cospif` _(by Philipp Burckhardt)_
 -   [`b0cd1b9`](https://github.com/stdlib-js/stdlib/commit/b0cd1b9163c383ed2175b262ab2e3618a2617c86) - **feat:** add `math/base/special/cospif` [(#7726)](https://github.com/stdlib-js/stdlib/pull/7726) _(by Karan Anand, Philipp Burckhardt)_
 
